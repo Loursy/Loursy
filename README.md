@@ -39,7 +39,7 @@ Tools
 📈 Activity Graph
 <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Loursy&bg_color=00000000&color=bd93f9&line=bd93f9&point=8be9fd&area=true&hide_border=true" /> </div>
 
-</div>
+
 💭 Dev Quote
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev quote" /> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8BE9FD&height=100&section=footer" />
 
