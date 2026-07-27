@@ -1,12 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8BE9FD&height=220&section=header&text=Hello,%20I'm%20Atakan!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Graduate%20%7C%20Software%20Developer&descAlignY=58&descSize=18" /> <a href="https://github.com/Loursy"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=520&lines=MIS+Graduate+%F0%9F%8E%93;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+a+Jira%2FTrello+Clone+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%E2%9A%A1" /> </a> <p> <a href="https://www.linkedin.com/in/atakan-%C3%BCnsever-327904257" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://instagram.com/atakan.unsever" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:atakanunsever.04@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> </div> <br>
 🚀 About Me
-
 MIS graduate software developer who loves searching and problem solving with different tools.
 
-🎓  Background: Management Information Systems graduate
-🔭  Currently working on: a Jira/Trello clone project
-💬  Ask me about: Java, Spring, TypeScript, JavaScript
-📫  Reach me: LinkedIn or Instagram above
 <br>
 🛠️ Tech Stack
 <div align="center">
