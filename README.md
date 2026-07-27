@@ -38,8 +38,6 @@ Tools
 <div align="center"> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Loursy&show_icons=true&theme=dracula&title_color=bd93f9&icon_color=8be9fd&hide_border=true&bg_color=00000000&count_private=true" /> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Loursy&layout=compact&theme=dracula&title_color=bd93f9&icon_color=8be9fd&hide_border=true&bg_color=00000000&langs_count=8" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loursy&theme=dracula&hide_border=true&background=00000000&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" /> </div>
 📈 Activity Graph
 <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Loursy&bg_color=00000000&color=bd93f9&line=bd93f9&point=8be9fd&area=true&hide_border=true" /> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Loursy/Loursy/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 <sub>⚙️ Set up automatically with the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see setup note below. That action lets you set custom snake/dot colors (purple/cyan) instead of the default green.</sub>
 
