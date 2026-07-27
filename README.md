@@ -13,7 +13,7 @@
   <a href="https://instagram.com/atakan.unsever" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:atakanunsever.04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -29,7 +29,6 @@ MIS graduate software developer who loves searching and problem solving with dif
 - 🎓 &nbsp;**Background:** Management Information Systems graduate
 - 🔭 &nbsp;**Currently working on:** a Jira/Trello clone project
 - 💬 &nbsp;**Ask me about:** Java, Spring, TypeScript, JavaScript
-- 🌱 &nbsp;**Currently learning:** *(buraya öğrendiğin bir şey ekleyebilirsin)*
 - 📫 &nbsp;**Reach me:** LinkedIn or Instagram above
 
 <br>
