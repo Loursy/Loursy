@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/30395420/README.md)
+
 <p align="center">
   <a href="https://github.com/Loursy">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Atakan!" />
   </a>
 </p>
 
